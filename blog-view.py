@@ -18,6 +18,7 @@ print """\033[1m\033[37m
                                                                      \033[41m FOS- Fools of Security :)
 \033[0m
 """
+
 #Default Tor port configuration
 proxyPort=9050
 ctrlPort=9051
