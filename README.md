@@ -4,7 +4,7 @@
  #### We create this python script for fun to increase blog user view traffic on  website through Tor Network i.e blog user view with different country IP address for every request :) 
  
  ## Getting Started
-    git clone https://github.com/umarfarook882/Blog-Views-Bot.git or download Zip and extract it.
+    git clone https://github.com/kiriotheo/traffic-generators.git or download Zip and extract it.
     cd Blog-Views-Bot
     chmod +x blog-view.py
     python blog-view.py
@@ -34,14 +34,9 @@
 ## Demo
  [![Alt text](https://img.youtube.com/vi/1pjY3fgN2og/0.jpg)](https://www.youtube.com/watch?v=1pjY3fgN2og)
   
- ## :octocat:Credits:
-* Umar Farook: [Security Engineer | Researcher](https://www.linkedin.com/in/umar-farook-a45603101)
-* FOS Team : [Fools of Security](https://www.youtube.com/channel/UCEBHO0kD1WFvIhf9wBCU-VQ)
 
  ## Support !
-  Email address: umarfarookmech712@gmail.com  for more details.
-  Youtube:[FOS](https://www.youtube.com/channel/UCEBHO0kD1WFvIhf9wBCU-VQ)
-  Blog:[FOS](https://fosecurity.blogspot.com)
+  Email address: kiriotheo@gmail.com  for more details.
 
 
 ## Disclaimer: 
