@@ -11,13 +11,13 @@
     
 ## :heavy_exclamation_mark:Requirements
      1.Linux operating system with python (Kali linux (or) other Linux OS) or windows with python installed.
-     2.Python2.x or above must installed in linux or windows for this tool to work.
-           Recommended:Python 2.x 
+     2.Python3.x or above must installed in linux or windows for this tool to work.
+           Recommended:Python 3.x 
      3.Install TorRequest Package for sending request via Tor.
            pip install TorRequest
        
 ## Download:
-  Python :[Python 2.x or above](https://www.python.org/downloads/) <br> 
+  Python :[Python 3.x or above](https://www.python.org/downloads/) <br> 
   Tor Browser:[Tor Browser](https://www.torproject.org/projects/torbrowser.html.en) <br>
   TorRequest:[TorRequest package](https://pypi.python.org/pypi/torrequest/0.1.0)
   
